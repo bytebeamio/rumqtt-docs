@@ -1,0 +1,8 @@
+{
+  "label": "rumqttc (Client)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "A pure rust MQTT client which strives to be robust, efficient and easy to use. This library is backed by an async(using tokio) eventloop which enables users to send and receive MQTT messages in correspondence with a broker."
+  }
+}

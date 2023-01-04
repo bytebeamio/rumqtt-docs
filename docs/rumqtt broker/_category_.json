@@ -1,0 +1,8 @@
+{
+  "label": "rumqttd (Broker)",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Rumqttd is a high performance MQTT broker written in Rust. It's light weight and embeddable, meaning you can use it as a library in your code and extend functionality"
+  }
+}
