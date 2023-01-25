@@ -11,8 +11,8 @@ rumqtt is an opensource set of libraries written in rust-lang to implement the M
 
 | Crate | Description | version |
 | -- | -- | -- |
-| [rumqttc](./category/rumqttc-client)| A high level, easy to use mqtt client | [![crates.io page](https://img.shields.io/crates/v/rumqttc.svg)](https://crates.io/crates/rumqttc) |
-| [rumqttd](./category/rumqttd-broker) | A high performance, embeddable MQTT broker |[![crates.io page](https://img.shields.io/crates/v/rumqttd.svg)](https://crates.io/crates/rumqttd) |
+| [rumqttc](./category/rumqttc)| A high level, easy to use mqtt client | [![crates.io page](https://img.shields.io/crates/v/rumqttc.svg)](https://crates.io/crates/rumqttc) |
+| [rumqttd](./category/rumqttd) | A high performance, embeddable MQTT broker |[![crates.io page](https://img.shields.io/crates/v/rumqttd.svg)](https://crates.io/crates/rumqttd) |
 
 
 ## Library Design

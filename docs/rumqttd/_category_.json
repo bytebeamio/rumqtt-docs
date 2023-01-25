@@ -1,5 +1,5 @@
 {
-  "label": "rumqttd (Broker)",
+  "label": "rumqttd",
   "position": 2,
   "link": {
     "type": "generated-index",

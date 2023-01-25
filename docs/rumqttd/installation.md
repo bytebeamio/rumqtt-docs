@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Installation and Usage
+# Installation
 
 ## Run using docker
 
